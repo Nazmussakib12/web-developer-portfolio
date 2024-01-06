@@ -200,3 +200,13 @@ main section {
     text-align: center;
     /*text align center er jonno puro button e majkhane chole gese*/
 }
+
+/*Footer section style*/
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+
+    
+}
